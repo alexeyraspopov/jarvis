@@ -1,0 +1,7 @@
+{
+  "name": "jarvis",
+  "version": "0.0.1",
+  "description": "Self-contained IDE that provides set of tools for quick start of your UI project",
+  "repository": "alexeyraspopov/jarvis",
+  "bin": {}
+}

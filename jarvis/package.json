@@ -1,5 +1,5 @@
 {
-  "name": "jarvis",
+  "name": "jarvis-runtime",
   "devDependencies": {
     "babel": "6.5.2",
     "babel-polyfill": "6.5.0",
