@@ -1,0 +1,10 @@
+{
+  "name": "example-app",
+  "dependencies": {
+    "react": "~0.14.7",
+    "react-dom": "~0.14.7"
+  },
+  "jarvis": {
+  	"entry": "index.web.js"
+  }
+}
