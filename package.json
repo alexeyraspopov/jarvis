@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Self-contained IDE that provides set of tools for quick start of your UI project",
   "repository": "alexeyraspopov/jarvis",
-  "bin": {}
+  "bin": {
+    "jarvis": "babel-node bin/index.js"
+  },
   "dependencies": {
     "babel": "6.5.2",
     "babel-preset-es2015": "6.5.0",
